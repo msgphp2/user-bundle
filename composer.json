@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/user-bundle",
+    "name": "corephp/msgphp-user-bundle",
     "type": "symfony-bundle",
     "description": "Basic user management (the `User` domain)",
     "keywords": [
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "msgphp/user": "dev-main",
+        "corephp/msgphp-user": "dev-main",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/http-kernel": "^3.4 || ^4.4 || ^5.0"

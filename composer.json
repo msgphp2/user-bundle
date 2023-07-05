@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "msgphp/user": "^1.0.2",
+        "msgphp/user": "dev-master",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/http-kernel": "^3.4 || ^4.4 || ^5.0"

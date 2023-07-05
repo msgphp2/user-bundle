@@ -17,6 +17,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/corePHP/msgphp_user"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/corePHP/msgphp_domain"
         }
     ],
     "require": {

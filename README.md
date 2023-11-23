@@ -1,3 +1,9 @@
+# Contributing to msgphp2
+
+For some reason original msgphp/* repositories were marked as archived by an administrator on Jun 29, 2023 and not available any more.
+Since we are using this bundles in production - we created mirror [msgphp2/*](https://github.com/msgphp2)
+Feel free to use and contibute!
+
 # User Bundle
 
 A new Symfony bundle for basic user management.
@@ -7,7 +13,7 @@ A new Symfony bundle for basic user management.
 # Installation
 
 ```bash
-composer require msgphp/user-bundle
+composer require msgphp2/user-bundle
 ```
 
 # Configuration
@@ -41,10 +47,5 @@ bin/console make:user:msgphp
 - Try the Symfony [demo application](https://github.com/msgphp/symfony-demo-app)
 - Get support on [Symfony's Slack `#msgphp` channel](https://symfony.com/slack-invite) or [raise an issue](https://github.com/msgphp/msgphp/issues/new)
 
-# Contributing
-
-This repository is **READ ONLY**. Issues and pull requests should be submitted in the
-[main development repository](https://github.com/msgphp/msgphp).
-
-[packagist]: https://packagist.org/packages/msgphp/user-bundle
-[packagist:img]: https://img.shields.io/packagist/v/msgphp/user-bundle.svg?style=flat-square
+[packagist]: https://packagist.org/packages/msgphp2/user-bundle
+[packagist:img]: https://img.shields.io/packagist/v/msgphp2/user-bundle.svg?style=flat-square

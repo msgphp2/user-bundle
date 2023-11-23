@@ -1,5 +1,5 @@
 {
-    "name": "corephp/msgphp-user-bundle",
+    "name": "msgphp2/user-bundle",
     "type": "symfony-bundle",
     "description": "Basic user management (the `User` domain)",
     "keywords": [
@@ -16,15 +16,15 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/corePHP/msgphp_user"
+            "url": "https://github.com/msgphp2/user"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/corePHP/msgphp_domain"
+            "url": "https://github.com/msgphp2/domain"
         }
     ],
     "require": {
-        "corephp/msgphp-user": "^1.0.6",
+        "msgphp2/user": "^1.0.6",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/http-kernel": "^3.4 || ^4.4 || ^5.0"
